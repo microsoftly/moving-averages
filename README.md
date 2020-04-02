@@ -22,17 +22,20 @@ On top of that, what these other people didn't write is everything else that wil
 
 
 ### 1. Business Logic
-   Implement the simple moving average
-1. Test your implementation (unit testing)
-2. Assess runtime complexity (big O notation - O(1), O(lg(n)), O(n), etc ...)
-3. Write performance tests to verify the runtime complexity assessment 
-4. typescriptify the existing code
+#### Status: TO DO
+1. Implement the simple moving average
+2. Test your implementation (unit testing)
+3. Assess runtime complexity (big O notation - O(1), O(lg(n)), O(n), etc ...)
+4. Write performance tests to verify the runtime complexity assessment 
+5. typescriptify the existing code
 ### 2. Add CI (continuous integration)
+#### Status: TO DO
 1. Discuss what and why (with Matt)
 1. Add lint checks to CI 
 1. Add tests checks to CI
 1. Add coverage reports to CI
 ### 3. Put the business logic behind a REST API
+#### Status: TO DO
 This section will leverage a [TDD](https://www.guru99.com/test-driven-development.html) (test driven development) approach.
 1. Design the REST API (by hand, pair with Matt)
 1. Implement the API skeleton
@@ -40,6 +43,7 @@ This section will leverage a [TDD](https://www.guru99.com/test-driven-developmen
 1. Implement the API endpoints
 1. Verify with automated + manual tests
 ### 4. Add a persistence layer (DB)
+#### Status: TO DO
 1. Review different persistent storage options (pair with with Matt)
 1. Design the data schema (pair with matt)
 1. CHOICE: Stand up the persistent storage solution
@@ -48,28 +52,33 @@ This section will leverage a [TDD](https://www.guru99.com/test-driven-developmen
 1. Write e2e (end to end) tests verifying the correctness of the overall solution
 1. GOTO CHOICE: do the same steps as many times as you wish with different storage choices. Review with Matt prior to this
 ### 5. New functionality
+#### Status: TO DO
 1. Discuss new features and design impacts (managing several distinct averages at once, adding users, adding auth, 3rd party integration)
 1. Select features to implement, and pitch design 
 1. Discuss/plan data schema, business logic, and API changes to handle the new feature
 1. Implement features using your existing skillset (repeat until happy)
 ### 7. Performance Testing
+#### Status: TO DO
 1. Write tests to verify the performance of real world scenarios
 1. Determine bottlenecks and how to help avoid them (e.g. caching, rate limiting)
 1. Implement caching, verify/ measure impact
 1. Implement rate limiting, verify/ measure impact
 ### 8. Deploy the service
+#### Status: TO DO
 1. Discuss cloud providers (e.g. aws, gce, azure)
 1. Select a solution ... (aws ... )
 1. Deploy persistent storage solution to AWS
 1. Deploy server to AWS
 1. Automate deployment to AWS using CICD (continuous integration, continuous deployment)
 ### 9 Add monitoring to the system
+#### Status: TO DO
 1. Discuss: what is this? why do we need this?
 1. Update code to not rely on console output; use a logging library
 1. Determine what 3rd party monitoring services should be used
 1. Ship logs to a log storage and search solution
 1. Create alert integrations based on the metrics of the service
 ### 10 Celebrate, but still probably keep social distance
+#### Status: TO DO
 ### GOTO 1, but with your own idea (discuss with Matt)
 
 
