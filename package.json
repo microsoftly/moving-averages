@@ -1,0 +1,15 @@
+{
+  "name": "moving-averages",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "https://github.com/microsoftly/moving-averages.git",
+  "author": "Matthew Schwartz <mattschwartz310@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
