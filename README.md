@@ -72,3 +72,8 @@ This section will leverage a [TDD](https://www.guru99.com/test-driven-developmen
 ### Create alert integrations based on the metrics of the service
 ## 10 Celebrate, but still probably keep social distance
 ## GOTO 1, but with your own idea (discuss with Matt)
+
+
+_____
+## Footnote:
+remember that this repository IS public. Everything you do in it is visible by anyone in the world. Remember that when submitting work or potentially sensitive information
