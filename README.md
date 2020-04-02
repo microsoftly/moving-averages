@@ -20,6 +20,7 @@ Good on you, realizing someone else already wrote the solutions to the sliding a
 
 On top of that, what these other people didn't write is everything else that will exist _on top_ of the algorithmic logic, for instance how would someone use your code over the network? This is just one of the many reasons why even if you cheat by looking at this other code, it won't even help that much with the gestalt of this repository.
 
+Check out `CURRENT.md` to see the current instruction set
 
 ### 1. Business Logic
 #### Status: TO DO
