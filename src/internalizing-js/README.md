@@ -119,7 +119,7 @@ function sumSeries(n) {
 }
 
 /* 
-  this line is 61 unites of work: 
+  this line is 91 unites of work: 
     * sumSeries(10) = 30 units of work
     * sumSeries(20) = 60 units of work
     * single addition (sumSeries(10) + sumSeries(20)) = 1 unit of work
