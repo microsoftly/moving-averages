@@ -5,7 +5,7 @@
   "repository": "https://github.com/microsoftly/moving-averages.git",
   "author": "Matthew Schwartz <mattschwartz310@gmail.com>",
   "license": "MIT",
-  "description": "new webhook test FINAL DEMO TEST",
+  "description": "new webhook test FINAL EDIT",
   "scripts": {
     "test": "./node_modules/.bin/mocha test"
   },
