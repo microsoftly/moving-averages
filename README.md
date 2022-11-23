@@ -1,4 +1,6 @@
 # moving-averages
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmicrosoftly%2Fmoving-averages.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmicrosoftly%2Fmoving-averages?ref=badge_shield)
+
 # Description
 When looking at trends over time, be it in the stock market, biological data, or log data, a moving average is a useful tool. It’s defined as taking a stream of numeric data (let’s call this an array of integers, n) and returning a new array which is the average of every window of size k over that array. There are more than one approaches to moving averages, but for this use case, we'll only consider SMA (simple moving average).
 
@@ -86,3 +88,7 @@ This section will leverage a [TDD](https://www.guru99.com/test-driven-developmen
 _____
 ## Footnote:
 remember that this repository IS public. Everything you do in it is visible by anyone in the world. Remember that when submitting work or potentially sensitive information
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmicrosoftly%2Fmoving-averages.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmicrosoftly%2Fmoving-averages?ref=badge_large)
